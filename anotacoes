@@ -1,0 +1,5 @@
+#sucrase usado para fazer a transpilação do Typescript para o javascript.
+#Ele é mais rápido por não fazer algumas checagens
+#usado apenas em ambiente de dev
+
+#sucrase não é utilizado em ambiente de desenvolvimento
